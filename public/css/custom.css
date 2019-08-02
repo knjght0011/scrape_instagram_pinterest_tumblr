@@ -1,0 +1,7 @@
+.player-audio iframe {
+    width: 100% !important;
+    height: auto !IMPORTANT;
+}
+.start {
+    display: none;
+}
